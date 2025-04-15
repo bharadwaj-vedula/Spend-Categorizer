@@ -1,5 +1,6 @@
 # 💰 Spend Categorizer
 Automatically categorize bank transactions based on transactions using sentence embeddings.
+Used SetFit to fine tune embeddings with very mininal examples **(4 from each class)**
 
 
 ## ✨ Features
